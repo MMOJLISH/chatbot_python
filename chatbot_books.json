@@ -1,0 +1,16 @@
+{
+  "questions": [
+    {
+      "question": "What is your name?",
+      "answer": "I am a chatbot."
+    },
+    {
+      "question": "& C:/Users/mosta/AppData/Local/Programs/Python/Python37/python.exe c:/Users/mosta/OneDrive/Documents/python_chatbot_train_model/teach_chatbot.py",
+      "answer": "we need to work harder then before "
+    },
+    {
+      "question": "where is ali?",
+      "answer": "ali is in casino "
+    }
+  ]
+}
